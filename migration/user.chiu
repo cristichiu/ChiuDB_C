@@ -1,0 +1,4 @@
+START user 2
+    name: string | unique | alloc=100
+    age: number
+END
